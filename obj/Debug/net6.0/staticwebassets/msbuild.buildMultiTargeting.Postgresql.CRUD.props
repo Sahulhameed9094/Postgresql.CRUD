@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Postgresql.CRUD.props" />
+</Project>
